@@ -6,13 +6,19 @@
 - Помаси магистратураӧн 2013-ӧд воын
 - Уджалі кык во Германияын Фрайбургса университетын
     - Проект йитчӧма коми кывкӧд, ӧти ресултатыс [тані](http://videocorpora.ru/)
-- Та бӧрын уджалі 15 тӧлысь [Гамбургса университетын](https://inel.corpora.uni-hamburg.de)
+
+![Фрайбург университетлӧн библиотека, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Uni_Bibliothek_%28Freiburg%29_jm33894.jpg/640px-Uni_Bibliothek_%28Freiburg%29_jm33894.jpg)
+
+- Та бӧрын уджалі 15 тӧлысь [Гамбургса университетын](https://inel.corpora.uni-hamburg.de) HZSK [чентрын](https://corpora.uni-hamburg.de/hzsk/)
+
 - Ӧні априльсянь уджала Парижын [LaTTiCe лабораторияын](http://www.lattice.cnrs.fr/)
 
 ## Менам проектъяс
 
 - [Медводз проект](https://langdoc.github.io/IKDP/)
 - [Ӧнія кор заводитчас](https://langdoc.github.io/IKDP-2/)
+
+![IKDP-2](https://langdoc.github.io/IKDP-2/media/boompole.jpg)
 
 ## Удж комиын
 
