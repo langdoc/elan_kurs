@@ -8,6 +8,8 @@
 
 ЭЛАН вӧдичӧм кындзи гижи [аудио файлъяс чиститӧм](audio.html) да [материальясысь корсьӧм](search.html) йылысь.
 
+Миян список уджъяс кузя [тані](https://docs.google.com/spreadsheets/d/16VMelSRvwL2VqKdBdywSci0aILgHXBHMLMPzjDYlKtU/edit?usp=sharing).
+
 ### Программа босьтӧм
 
 ЕЛАН программа дасьтӧма Наймегенса Макс Планк институтын психолингвистика вылӧ, и сійӧс позьӧ [налӧн сайт](https://tla.mpi.nl/tools/tla-tools/elan/) вылысь босьтны.
