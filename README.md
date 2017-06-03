@@ -65,3 +65,7 @@
 Тайӧ бӧрын позьӧ нин заводитны уджавны расшифровкаӧн.
 
 ### Расшифруйтӧм
+
+https://github.com/langdoc/elan_kurs/raw/master/komi-knt.zip
+
+http://www.univie.ac.at/maridict/site-2014/tech/ruslay_win_ru.html
