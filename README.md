@@ -66,6 +66,6 @@
 
 ### Расшифруйтӧм
 
-https://github.com/langdoc/elan_kurs/raw/master/komi-knt.zip
+Клавиатура, кодӧс Jeremy Bradley дасьтіс, позьӧ босьтны [татысь](https://github.com/langdoc/elan_kurs/raw/master/komi-knt.zip).
 
-http://www.univie.ac.at/maridict/site-2014/tech/ruslay_win_ru.html
+[Татшӧм](http://www.univie.ac.at/maridict/site-2014/tech/ruslay_win_ru.html) инструкчияяс кузя колӧ инсталлируйтны.
