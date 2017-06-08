@@ -42,17 +42,16 @@ Regular expressions (регулярное выражение), ӧтик медс
 
 Тайӧ петкӧдчас мый тайӧ файлькӧд мыйкӧ оз уджав, сэні кутшӧмкӧ сьӧкыдджык структуральнӧй сьӧкыдлун. Таӧн бурджык сійӧс видзӧдны бура.
 
-Fully aligned: дзик тайӧ каднас
-Overlap: партиальнӧй ӧтик кадӧн
-Within: пытшкын
-Surrounding: гӧгӧрын
+- Fully aligned: дзик тайӧ каднас
+- Overlap: партиальнӧй ӧтик кадӧн
+- Within: пытшкын
+- Surrounding: гӧгӧрын
 
 Параметръяс колӧ татшӧм сямӧн пуктыны:
 
-Regular expressions: x
-
-Tier type: word-kntT
-Tier type: phonol-kntT
+- Regular expressions: x
+- Tier type: word-kntT
+- Tier type: phonol-kntT
 
 ![](http://i.imgur.com/0PQLiQ8.png)
 
